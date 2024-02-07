@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:  border-box;
+}
+body{
+    font-family:  Arial, Helvetica, sans-serif;
+
+}
+
+.head{
+display:flex;
+flex-direction: row;
+justify-content: center;
+background-color: black;
+height: 80px;
+
+}
+.head-next{
+    background-color: #000;
+    height: 50px;
+}
+.mobileo{
+    width: 150px;
+    height: 50%;
+    margin-left: 30rem;
+    margin-top: 1.5rem;
+}
+
+.advertise{
+    width: 150px;
+    height: 30px;
+background-color: red;
+margin-left: 400px;
+font-size: 20px;
+margin-top: 2rem;
+
+
+}
+.editorial{
+    background-color: red;
+    width: 150px;
+    height: 30px;
+font-size: 20px;
+
+}
+
+.image-one{
+    width: 70%;
+    height: 500px;
+}
+select{
+    background-color: transparent;
+    border:none;
+    color: aliceblue;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 100px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+.h4{
+    font-family: arial,sans-serif;
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 30px;
+
+}
+p{
+    font-weight: 500;
+    font-family: Rotunda,arial,sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+   
+}
+.link{
+    color: red;
+    font-size: 20px;
+}
+.hyperlink{
+    color: red;
+}
+
+.banner-container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: 300px;
+
+}
+.smart-button{
+    font-size: 16px;
+    display: inline-block;
+    background-color: rgb(82, 77, 77);
+    border: 1px solid #d1d1d1;
+    color: white;
+    font-weight: 500;
+    
+
+}
+.last-section{
+    background-color: #000;
+    width: 100%;
+    height: 500px;
+    margin: 0%;
+}   
+.img-two{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.image-three{
+    padding-left: 50px;
+}
+.image-four{
+    padding-left: 50px;
+}
+
